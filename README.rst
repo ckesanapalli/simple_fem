@@ -34,7 +34,7 @@ truss_modal
 ===========
 
 
-The module takes nodes and element DataFrames of truss systems and returns global matrices and modal parameters of the truss. 
+This module takes nodes and element DataFrames of truss systems and returns global matrices and modal parameters of the truss. 
 
 
 .. _pyscaffold-notes:
