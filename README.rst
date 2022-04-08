@@ -34,10 +34,7 @@ truss_modal
 ===========
 
 
-    Initializing the repo
-
-
-A longer description of your project goes here...
+The module takes nodes and element DataFrames of truss systems and returns global matrices and modal parameters of the truss. 
 
 
 .. _pyscaffold-notes:
